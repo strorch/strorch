@@ -2,8 +2,8 @@
 
 Blogs:
 
-- [Github blog](https://strorch.github.io/)
-- <a href="https://dev.to/strorch"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+- <a target="_blank" rel="noopener noreferrer" href="https://strorch.github.io/">Github blog</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://dev.to/strorch"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 
 Technology stack:
 
