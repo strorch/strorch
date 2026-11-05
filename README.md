@@ -17,47 +17,8 @@
 - Designing maintainable architectures with spec-driven development
 - Applying AI tooling (Codex, Copilot, ChatGPT) to speed up delivery
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/strorch/rdap">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=strorch&repo=rdap&theme=default&hide_border=true" alt="rdap" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/strorch/camagru">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=strorch&repo=camagru&theme=default&hide_border=true" alt="camagru" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/strorch/matcha">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=strorch&repo=matcha&theme=default&hide_border=true" alt="matcha" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/strorch/yii2-google-tag-manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=strorch&repo=yii2-google-tag-manager&theme=default&hide_border=true" alt="yii2-google-tag-manager" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## Stack Snapshot
-
-- Languages: `PHP`, `Python`, `SQL`, `JavaScript`, `Shell`
-- Frameworks: `Symfony`, `Laravel`, `FastAPI`, `Flask`, `Django`, `React`
-- Data: `PostgreSQL`, `MySQL`, `Redis`, `MongoDB`, `Elasticsearch`, `ClickHouse`
-- Infra: `Docker`, `Kubernetes`, `GitHub Actions`, `GitLab CI`, `Terraform`, `Nginx`
-
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=strorch&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="strorch GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strorch&layout=compact&hide=html,css&hide_border=true" alt="Top languages" height="165" />
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/strorch)](https://git.io/awesome-stats-card)
 
 <p align="center"><i>Open to collaborations on backend, highload, and microservice-heavy projects.</i></p>
