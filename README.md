@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm strorch 👋</h1>
-<p align="center"><strong>Backend Engineer | Highload PHP/Python | Distributed Systems</strong></p>
-<p align="center">I design and ship scalable services, data-heavy backends, and production-ready infrastructure.</p>
-<p align="center">Website: <a href="https://strorch.github.io/">strorch.github.io</a></p>
+<h1 align="left">Hi, I'm strorch 👋</h1>
+<p align="left"><strong>Backend Engineer | Highload PHP/Python | Distributed Systems</strong></p>
+<p align="left">I design and ship scalable services, data-heavy backends, and production-ready infrastructure.</p>
+<p align="left">Website: <a href="https://strorch.github.io/">strorch.github.io</a></p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/strorch"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://strorch.github.io/"><img src="https://img.shields.io/badge/Blog-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog"></a>
   <a href="https://dev.to/strorch"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
@@ -21,4 +21,4 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/strorch)](https://git.io/awesome-stats-card)
 
-<p align="center"><i>Open to collaborations on backend, highload, and microservice-heavy projects.</i></p>
+<p align="left"><i>Open to collaborations on backend, highload, and microservice-heavy projects.</i></p>
